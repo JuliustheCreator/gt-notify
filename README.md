@@ -1,6 +1,6 @@
 # GT Notify
 
-This is a class avaliability program I made to check for seat openings (not waitlist seats). Sends you an email when a seat opens in a class. Similar to NotifyGT and Coursicle but can monitor multiple classes for free and updates much more quickly.
+This is a class avaliability program I made last semester to check for seat openings (not waitlist seats). Sends you an email when a seat opens in a class. Similar to NotifyGT and Coursicle but can monitor multiple classes for free and updates much more quickly.
 
 ## Setup
 
